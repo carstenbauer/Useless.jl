@@ -1,1 +1,3 @@
-"# Useless.jl" 
+# Useless.jl
+
+A useless package.
