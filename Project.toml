@@ -1,0 +1,6 @@
+authors = ["Carsten Bauer <crstnbr@gmail.com>"]
+name = "Useless"
+uuid = "844dae10-c0bf-11e8-151a-ff650c5ba20c"
+version = "0.1.0"
+
+[deps]
